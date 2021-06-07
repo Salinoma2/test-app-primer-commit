@@ -1,0 +1,86 @@
+[
+    {
+        "id":"K3923-1",
+        "title":"Nombre 1",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo1"
+    },
+    {
+        "id":"J1860-3",
+        "title":"Nombre 2",
+        "precio":"$19.99",
+        "rating": "4 estrellas",
+        "foto":"modelo2"
+    },
+    {
+        "id":"P9031-5",
+        "title":"Nombre 3",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo3"
+    },
+    {
+        "id":"Q6297-8",
+        "title":"Nombre 4",
+        "precio":"$19.99",
+        "rating": "4 estrellas",
+        "foto":"modelo2"
+    },
+    {
+        "id":"B6273-2",
+        "title":"Nombre 5",
+        "precio":"$19.99",
+        "rating": "3 estrellas",
+        "foto":"modelo1"
+    },
+    {
+        "id":"K3128-2",
+        "title":"Nombre 6",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo3"
+    },
+    {
+        "id":"C4971-0",
+        "title":"Nombre 7",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo3"
+    },
+    {
+        "id":"T1023-6",
+        "title":"Nombre 8",
+        "precio":"$19.99",
+        "rating": "4 estrellas",
+        "foto":"modelo2"
+    },
+    {
+        "id":"V7149-4",
+        "title":"Nombre 9",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo1"
+    },
+    {
+        "id":"G5249-3",
+        "title":"Nombre 10",
+        "precio":"$19.99",
+        "rating": "4 estrellas",
+        "foto":"modelo1"
+    },
+    {
+        "id":"A4913-4",
+        "title":"Nombre 11",
+        "precio":"$19.99",
+        "rating": "3 estrellas",
+        "foto":"modelo2"
+    },
+    {
+        "id":"Y6724-2",
+        "title":"Nombre 12",
+        "precio":"$19.99",
+        "rating": "5 estrellas",
+        "foto":"modelo3"
+    }
+]
