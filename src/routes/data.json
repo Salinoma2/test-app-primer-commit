@@ -1,86 +1,86 @@
 [
     {
         "id":"K3923-1",
-        "title":"Nombre 1",
+        "title":"Armored Crab",
         "precio":"$19.99",
         "rating": "5 estrellas",
         "foto":"modelo1"
     },
     {
         "id":"J1860-3",
-        "title":"Nombre 2",
+        "title":"Birdman",
         "precio":"$19.99",
         "rating": "4 estrellas",
         "foto":"modelo2"
     },
     {
         "id":"P9031-5",
-        "title":"Nombre 3",
+        "title":"Cabin in Woods",
         "precio":"$19.99",
         "rating": "5 estrellas",
         "foto":"modelo3"
     },
     {
         "id":"Q6297-8",
-        "title":"Nombre 4",
+        "title":"Cavalier",
         "precio":"$19.99",
         "rating": "4 estrellas",
-        "foto":"modelo2"
+        "foto":"modelo4"
     },
     {
         "id":"B6273-2",
-        "title":"Nombre 5",
+        "title":"Astronauta",
         "precio":"$19.99",
         "rating": "3 estrellas",
-        "foto":"modelo1"
+        "foto":"modelo5"
     },
     {
         "id":"K3128-2",
-        "title":"Nombre 6",
+        "title":"Creature thing",
         "precio":"$19.99",
         "rating": "5 estrellas",
-        "foto":"modelo3"
+        "foto":"modelo6"
     },
     {
         "id":"C4971-0",
-        "title":"Nombre 7",
+        "title":"Mount",
         "precio":"$19.99",
         "rating": "5 estrellas",
-        "foto":"modelo3"
+        "foto":"modelo7"
     },
     {
         "id":"T1023-6",
-        "title":"Nombre 8",
+        "title":"Garfield",
         "precio":"$19.99",
         "rating": "4 estrellas",
-        "foto":"modelo2"
+        "foto":"modelo8"
     },
     {
         "id":"V7149-4",
-        "title":"Nombre 9",
+        "title":"Himito",
         "precio":"$19.99",
         "rating": "5 estrellas",
-        "foto":"modelo1"
+        "foto":"modelo9"
     },
     {
         "id":"G5249-3",
-        "title":"Nombre 10",
+        "title":"Nave espacial",
         "precio":"$19.99",
         "rating": "4 estrellas",
-        "foto":"modelo1"
+        "foto":"modelo10"
     },
     {
         "id":"A4913-4",
-        "title":"Nombre 11",
+        "title":"Espada",
         "precio":"$19.99",
         "rating": "3 estrellas",
-        "foto":"modelo2"
+        "foto":"modelo11"
     },
     {
         "id":"Y6724-2",
-        "title":"Nombre 12",
+        "title":"Canicas",
         "precio":"$19.99",
         "rating": "5 estrellas",
-        "foto":"modelo3"
+        "foto":"modelo12"
     }
 ]
